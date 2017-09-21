@@ -1,17 +1,4 @@
----
-title: 栗子——嵌套组合实现筛选菜单滑动吸顶悬停
-date: 2016-08-13 23:25:20
-categories: "Android栗子"
-tags:
-	 - Android栗子
-	 - Android
-	 - 栗子
----
-
-![栗子配图.png](http://upload-images.jianshu.io/upload_images/2071764-876a337c79b7c77d.png)
-
-
-<!--more-->
+### 栗子——嵌套组合实现筛选菜单滑动吸顶悬停
 
 ---
 
@@ -185,10 +172,6 @@ Toolbar在v7包中，设置`layout_collapseMode`协调`CollapsingToolbarLayout`�
 
 参考如下，感谢作者：
 参考：[过滤功能的下拉菜单FilterDropDownMenu](https://github.com/leerduo/FilterDropDownMenu)
-
-> ### 源码地址
-> **[https://github.com/FJ917/FJHoverDropDownMenuDemo](https://github.com/FJ917/FJHoverDropDownMenuDemo)**
-> **有用的话，请给个star支持下，谢谢~**
 
 ---
 
