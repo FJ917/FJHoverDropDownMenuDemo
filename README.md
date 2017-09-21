@@ -175,8 +175,8 @@ Toolbar在v7包中，设置`layout_collapseMode`协调`CollapsingToolbarLayout`�
 
 ---
 
-> **个人博客：[WWW.FJ917.COM](http://www.fj917.com)**
-> **简书：[www.jianshu.com/u/3d2770e6e489](http://www.jianshu.com/u/3d2770e6e489)**
+> **个人博客：[WWW.FJ917.COM](http://www.fj917.com)**</br>
+> **简书：[www.jianshu.com/u/3d2770e6e489](http://www.jianshu.com/u/3d2770e6e489)**</br>
 > **CSDN：[blog.csdn.net/fj917](http://blog.csdn.net/fj917)**
 
 
